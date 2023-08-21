@@ -25,8 +25,6 @@ NumPy
 Matplotlib
 You can install requirements using:
 
-Copy code
-
 pip install -r requirements.txt
 The main model code is contained in iris_model.py. You can run this file directly to train and evaluate the model.
 
